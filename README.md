@@ -19,7 +19,7 @@ images folder: https://github.com/staceyjo/react-fashion-blog/tree/main/images
 
 
 ### Netlify Live Link of React
-https://app.netlify.com/sites/serene-lolly-4658bc/overview
+https://sparkling-phoenix-b98103.netlify.app
 
 #### Link to Fashion Blog React GitHub 
 https://github.com/staceyjo/react-fashion-blog-pt-2
